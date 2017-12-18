@@ -11,4 +11,4 @@ It is written in C# and makes use of cryptographic library in .Net to compute ha
 2. Comparison with expected digest value
 
 # Contribution
-This is my first GitHub project, and any feedback/suggestion or pull request will be welcomed :)
+Any feedback/suggestion or pull request will be welcomed :)
